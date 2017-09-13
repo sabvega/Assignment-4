@@ -4,7 +4,7 @@
 
 module.exports = {
   db: {
-    uri: '', //place the URI of your mongo database here.
+    uri: 'mongodb://svega24:Ehssswim99@ds123534.mlab.com:23534/bootcamp_3', //place the URI of your mongo database here.
   }, 
   googleMaps: {
     key: ''
